@@ -1,4 +1,4 @@
-# qb-LSD
+# qb-lsd
 https://github.com/hanyczeu
 
 Join My Server
